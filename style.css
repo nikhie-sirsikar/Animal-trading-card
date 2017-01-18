@@ -1,0 +1,38 @@
+*{
+	
+	width: 400px;
+	border-color: aquamarine;
+}
+
+body {
+	border-style: groove;
+	padding: 1em;
+}
+
+.header{
+	border-style: groove;
+	border-width: medium;
+	padding: initial;
+	background-color: cyan;
+}		       
+
+.animal_image{
+	border-style: groove;
+}
+
+.facts{
+	font-style: italic;
+}
+
+.content_style{
+	border-style: groove;
+	background-color: lightyellow;
+}
+
+.list_style{
+	list-style-type: none; 
+}
+
+span{
+	font-weight: bold;
+}
